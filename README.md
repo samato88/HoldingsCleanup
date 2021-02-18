@@ -1,6 +1,6 @@
 # HoldingsCleanup
 
-Crude script to remove some holdings statements that look problematic and slightyl pretty up long strings if possible.
+Crude script to remove some holdings statements that look problematic and slightly pretty up long strings if possible.
 
 Enter path to input and output files in $infile / $outfile
 
